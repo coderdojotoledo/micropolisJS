@@ -1,6 +1,0 @@
-language: javascript 
-install:
-  - npm install
-  - npm install -g grunt
-script:
-  - grunt
